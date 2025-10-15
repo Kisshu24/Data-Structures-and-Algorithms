@@ -7,5 +7,7 @@ Write a program that tosses two coins 50 times each.  Record and report how many
 Create an interface called CoinInterface for GenericCoin that specifies the signatures of the methods for GenericCoin.  Then change GenericCoin to implement the interface. Rerun Part 2 to make sure that the interface works.
 ## Part 4
 Define a class Coin that inherits GenericCoin that has a value and type and can be tossed.  Include constructors(no arg(default) and with parameters) and methods (get and set) needed to make the class functional
+
+## UML Diagram:
 <img width="719" height="457" alt="image" src="https://github.com/user-attachments/assets/cbd14162-e310-4221-9de5-a1498093f2f0" />
 
